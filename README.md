@@ -1,3 +1,5 @@
+[![Build Status](http://developmentserver/DefaultCollection/DevOpsTest/_apis/build/status/DevOpsTest-ASP.NET%20Core-CI)](http://developmentserver/DefaultCollection/DevOpsTest/_build/latest?definitionId=8)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
